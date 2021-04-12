@@ -1,2 +1,2 @@
 # Waste-Tracker
-Basic Waste Tracking Application for Industry
+Basic Waste Tracking Application
